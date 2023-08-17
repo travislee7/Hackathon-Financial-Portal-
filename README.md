@@ -1,6 +1,6 @@
 # Hackathon-Financial-Portal-
 
-This app was selected as the #1 winning app in the MecSimCalc Hackathon 4.0. Designed using Python, Matplotlib, and NumPy on the MecSimCalc platform.
+Collaborated in a team of four to create this financial analysis app which was selected as the #1 winning app in the MecSimCalc Hackathon 4.0. Designed using Python, Matplotlib, and NumPy on the MecSimCalc platform.
 
 # Overview
 The Hackathon-Financial-Portal is an interactive calculator built for the MecSimCalc platform. It offers users a unique opportunity to visualize monthly expenses, set savings goals, and grasp the concept of compound interest. This application was exclusively developed for the MecSimCalc's Python editor.
