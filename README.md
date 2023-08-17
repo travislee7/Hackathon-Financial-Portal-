@@ -7,8 +7,11 @@ The Hackathon-Financial-Portal is an interactive calculator built for the MecSim
 
 # Features
 Visualize Monthly Expenses: Gain insights into your monthly expenses through visual representations.
+
 Set Savings Goals: Plan and track your savings goals effectively within the app.
+
 Understand Compound Interest: Experience the power of compound interest with interactive simulations.
+
 User Inputs: The app requires a series of user inputs to provide tailored financial insights.
 
 # Try It Out
